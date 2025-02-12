@@ -1,3 +1,3 @@
 # pytorch_sandbox
 
-This is a reimplementation of Andrej Karpathis Makemore series
+This is a reimplementation of Andrej Karpathis Makemore series from youtube
