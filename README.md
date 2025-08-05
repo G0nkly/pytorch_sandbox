@@ -9,4 +9,6 @@ Furthermore it contains primer material for ML/AI first timers and experimental 
 
 ### ViTs
 
+### Neural Network Primer
+
 A more detailed table of contents will follow soon :)
