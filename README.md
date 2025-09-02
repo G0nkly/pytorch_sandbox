@@ -11,4 +11,4 @@ Furthermore it contains primer material for ML/AI first timers and experimental 
 
 ### Neural Network Primer
 
-A more detailed table of contents will follow soon :)
+A more detailed table of contents will follow soon :)!
