@@ -7,6 +7,8 @@ Furthermore it contains primer material for ML/AI first timers and experimental 
 
 ### GPTs
 
+#### Finetuning
+
 ### ViTs
 
 ### Neural Network Primer
