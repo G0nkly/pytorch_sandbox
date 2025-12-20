@@ -9,6 +9,8 @@ Furthermore it contains primer material for ML/AI first timers and experimental 
 
 #### Finetuning
 
+LoRA adapters
+
 ### ViTs
 
 ### Neural Network Primer
