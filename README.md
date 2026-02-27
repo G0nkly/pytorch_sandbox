@@ -19,6 +19,6 @@ A more detailed table of contents will follow soon :)!
 
 ### The 'Holster'
 
-GPTs
-VLMs
-CNNs
+#### GPTs
+#### VLMs
+#### CNNs
