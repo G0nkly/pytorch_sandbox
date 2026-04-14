@@ -18,7 +18,7 @@ LoRA adapters
 A more detailed table of contents will follow soon !
 
 
-### The 'Holster' (quick access to the most iconic NNs)
+### The 'Holster' (quick access to the most iconic NNs/CNNs/Tranformers)
 
 #### GPTs
 #### VLMs
