@@ -11,8 +11,6 @@ Furthermore it contains primer material for ML/AI first timers and experimental 
 
 LoRA adapters 
 
-### ViTs
-
 ### Neural Network Primer
 
 A more detailed table of contents will follow soon !
@@ -23,3 +21,4 @@ A more detailed table of contents will follow soon !
 #### GPTs
 #### VLMs
 #### CNNs
+#### VITs
