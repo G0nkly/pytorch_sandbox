@@ -22,3 +22,4 @@ A more detailed table of contents will follow soon !
 #### VLMs
 #### CNNs
 #### VITs
+### and more...
